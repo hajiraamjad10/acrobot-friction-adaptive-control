@@ -1,1 +1,3 @@
-Initial contribution by Hajira
+- Added initial file to demonstrate contribution
+- Verified ability to fork, commit, and open PR
+- Ready for further development
